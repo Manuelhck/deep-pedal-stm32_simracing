@@ -18,6 +18,11 @@ Una pedalera de simulación profesional hecha en casa, desarrollada en **2 días
 - ✅ **Código optimizado** para 32KB Flash
 - ✅ **Hardware mínimo** (STM32 Blue Pill + 3 potenciómetros)
 
+  ## 🛒 Disponible en Cults3D
+[![Cults3D](https://img.shields.io/badge/Cults3D-Download-orange)](https://cults3d.com/tu-enlace)
+
+¿Prefieres tener todo empaquetado? Descarga el pack completo en Cults3D.
+
 ## 📸 Vista previa
 
 ![Montaje hardware](hardware/fotos/montaje.jpg) <!-- Añade tu foto aquí -->
