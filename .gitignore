@@ -1,0 +1,60 @@
+# ============================================
+# DEEP PEDAL - STM32F103C6 SIMRACING PEDALS
+# Archivos que NO subir a GitHub
+# ============================================
+
+# 1. CARPETAS DE COMPILACIÓN (¡LAS MÁS IMPORTANTES!)
+Debug/
+Release/
+.build/
+obj/
+build/
+
+# 2. ARCHIVOS BINARIOS Y EJECUTABLES
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.axf
+
+# 3. ARCHIVOS DE OBJETO INTERMEDIOS
+*.o
+*.d
+*.su
+*.ilk
+*.pdb
+
+# 4. CONFIGURACIONES DE IDEs
+## STM32CubeIDE
+.project
+.cproject
+.settings/
+.mxproject
+
+## VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Otros IDEs
+.idea/
+*.iml
+
+# 5. ARCHIVOS TEMPORALES DEL SISTEMA
+.DS_Store           # macOS
+Thumbs.db           # Windows
+desktop.ini         # Windows
+*~
+*.swp
+*.swo
+
+# 6. DOCUMENTACIÓN GENERADA
+doc/html/
+doc/latex/
+
+
+*.elf
+*.map
